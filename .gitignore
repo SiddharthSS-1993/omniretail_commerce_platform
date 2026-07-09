@@ -1,0 +1,6 @@
+# Virtual Environment
+omniretail_commerce/
+
+# Python
+__pycache__/
+*.pyc
